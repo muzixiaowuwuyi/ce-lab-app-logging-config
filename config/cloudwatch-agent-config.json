@@ -4,7 +4,7 @@
       "files": {
         "collect_list": [
           {
-            "file_path": "/home/gl/ce-labs/ce-lab-app-logging-config/app/application.log",
+            "file_path": "/home/ubuntu/ce-lab-app-logging-config/app/application.log",
             "log_group_name": "/aws/application/api",
             "log_stream_name": "{instance_id}",
             "timezone": "UTC",
